@@ -87,6 +87,7 @@
                     style="?android:attr/textAppearanceMedium"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:text="@string/content"
                     android:layout_marginBottom="@dimen/textViewMargin"
                     android:layout_marginLeft="@dimen/textViewMargin"
                     android:layout_marginRight="@dimen/textViewMargin"
